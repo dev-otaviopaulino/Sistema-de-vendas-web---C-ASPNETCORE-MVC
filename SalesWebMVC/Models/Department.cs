@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Linq;
-using SalesWebMvc.Models;
 using System.Collections.Generic;
 
-namespace SalesWebMVC.Models
+namespace SalesWebMvc.Models
 {
     public class Department
     {
