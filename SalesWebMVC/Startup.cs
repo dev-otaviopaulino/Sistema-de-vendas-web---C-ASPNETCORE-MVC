@@ -16,7 +16,7 @@ using SalesWebMvc.Data;
 using SalesWebMvc.Models;
 using SalesWebMvc.Services;
 
-namespace SalesWebMVC
+namespace SalesWebMvc
 {
     public class Startup
     {
